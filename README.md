@@ -25,6 +25,8 @@ My favourite place is Hyderabad. The state is famous for its beauty as well as a
 
   # Quotes
   > Do good and good will come to you
+  >
   > Be positive. Be true. Be kind
+  >
   *Roy T. Bennett*
   
