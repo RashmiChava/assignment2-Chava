@@ -14,3 +14,12 @@ My favourite place is Hyderabad. The state is famous for its beauty as well as a
   - food
 
   **[Bio](AboutMe.md)**
+
+  # Food Recommendations
+  | Food Items         | Location      | Cost          |
+  | :---               |    :----:     |          ---: |
+  | Hyderabadi Biryani | Hyderabad     | 4$ - 6$       |
+  | Thick Shake        | Telangana     | 3$ - 5$       |
+  | Dal with Avakai    | India         | 5$ - 10S      |
+  | Bamboo Chciken     | AndhraPradesh | 7$ - 11$      |
+  
