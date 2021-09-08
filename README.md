@@ -33,12 +33,12 @@ My favourite place is Hyderabad. The state is famous for its beauty as well as a
   # Disjoint-set data structure algorithm
   > In computer science, a disjoint-set data structure, also called a union–find data structure or merge–find set, is a data structure that stores a collection of disjoint sets. Equivalently, it stores a partition of a set into disjoint subsets
 
-  ---
+  ```
   void make_set(int v) {
     parent[v] = make_pair(v, 0);
     rank[v] = 0;
 }
-  ---
+  
 
 pair<int, int> find_set(int v) {
     if (v != parent[v].first) {
@@ -49,7 +49,7 @@ pair<int, int> find_set(int v) {
     return parent[v];
 }
 
-  ---
+  
 
 void union_sets(int a, int b) {
     a = find_set(a).first;
@@ -62,6 +62,7 @@ void union_sets(int a, int b) {
             rank[a]++;
     }
 }
----
+
+```
 [ Code Source](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
   
