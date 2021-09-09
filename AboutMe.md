@@ -4,4 +4,5 @@ AboutMe.md
 
 I am from Guntur, India completed my Bachelors of Technology in Computer Science stream from JNTU Hyderabad. I have worked in Cognizant Technology Soulutions for 2 years in Software development and Testing. I wanted to become a Full stack developer.
 
-![myFavouritePet](image/rabbit.jpg){:height="50%" width="50%"}
+![myFavouritePet]<img src="image/rabbit.jpg" width="50" height="50">
+
